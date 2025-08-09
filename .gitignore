@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+react-authentication-1.jpg
+react-authentication-2.jpg
